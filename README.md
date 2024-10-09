@@ -94,3 +94,17 @@ HospitalManagementSystem/
 ├── Doctors.txt        # Stores registered doctor information
 ├── Bills.txt          # Stores billing information
 ├── README.md          # Project documentation (this file)
+
+```
+
+## Future Enhancements
+
+- **Search Functionality**: 
+  - Add a search feature to quickly find patients or doctors by **ID** or **name**.
+
+- **Graphical User Interface (GUI)**: 
+  - Implement a GUI for a more **user-friendly experience**, allowing users to interact with the system more intuitively.
+
+- **Expanded Billing System**: 
+  - Enhance the billing system to support **multiple services** and **insurance processing**, providing a more comprehensive billing solution for patients.
+
