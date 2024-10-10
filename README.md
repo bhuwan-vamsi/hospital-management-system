@@ -89,7 +89,7 @@ To run this program in **Dev C++**, follow these steps:
 
 ```plaintext
 HospitalManagementSystem/
-├── main.cpp           # The main C++ source code file
+├── code.cpp           # The main C++ source code file
 ├── Patients.txt       # Stores registered patient information
 ├── Doctors.txt        # Stores registered doctor information
 ├── Bills.txt          # Stores billing information
